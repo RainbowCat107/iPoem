@@ -1,0 +1,23 @@
+.text1 {
+  font-size: 20px;
+  font-weight: bold;
+  background: linear-gradient(to right, #1ae8c8, #4a8aff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.text2 {
+  font-size: 20px;
+  font-weight: bold;
+  background: linear-gradient(to right,red,purple);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.juzhong{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
